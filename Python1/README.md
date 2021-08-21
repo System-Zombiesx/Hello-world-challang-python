@@ -19,3 +19,6 @@ Print Hello, World! to stdout.
 ```
 Hello, World!
 ```
+<p align="center">
+<a href="#"><img title="Akina" src="https://img.shields.io/badge/Akina-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
