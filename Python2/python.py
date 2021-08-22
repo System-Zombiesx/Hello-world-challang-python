@@ -1,12 +1,4 @@
-#!/bin/python
-
-import math
-import os
-import random
-import re
-import sys
-
-
+from __future__ import print_function
 
 if __name__ == '__main__':
-    n = int(raw_input().strip())
+    n = int(raw_input())
