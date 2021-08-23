@@ -1,7 +1,7 @@
 # Python Challange 
 <p align="center">
 <br>
-  <a href="https://github.com/System-Zombiesx/Hello-world-challang-python.git"><img src="https://i.imgur.com/pcU2tdy.jpg" alt="ZHunter"></a>
+  <a href="https://github.com/System-Zombiesx/Hello-world-challang-python.git"><img src="https://i.imgur.com/0TcDpFf.png" alt="ZHunter"></a>
  <br>
   </p>
   
