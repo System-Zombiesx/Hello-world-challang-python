@@ -1,4 +1,4 @@
-# Python Challange 
+# How To Install Python 3 on Windows 
 <p align="center">
 <br>
   <a href="https://github.com/System-Zombiesx/Hello-world-challang-python.git"><img src="https://i.imgur.com/0TcDpFf.png" alt="ZHunter"></a>
