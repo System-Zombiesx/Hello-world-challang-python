@@ -22,4 +22,22 @@ Print the following:
 The first line contains the first integer,***a***      
 The second line contains the second integer,***b***        
 ### Constraints
-8^8
+  <a href="https://github.com/System-Zombiesx/Hello-world-challang-python.git"><img src="https://i.imgur.com/3RB7hgV.png" alt="ZHunter"></a>
+ <br>
+### Output Format
+Print the three lines as explained above.
+### Sample Input 0
+```
+3
+2
+```
+### Sample Output 0
+```
+5
+1
+6
+```
+### Explanation 0
+<a href="https://github.com/System-Zombiesx/Hello-world-challang-python.git"><img src="https://i.imgur.com/xeaAedK.png" alt="ZHunter"></a>
+<br>
+ 
